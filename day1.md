@@ -1,4 +1,4 @@
-# Javascript
+![image](https://github.com/mahaalqerem/Mastering-JavaScript-in-20-Days/assets/138065974/bdd1ffcf-d600-41f9-bb94-a6658cf78285)# Javascript
 ### introduction:
 JS : is a programming language to web site , dynamic language , to make websites more interactive.
 
@@ -71,6 +71,22 @@ JS : is a programming language to web site , dynamic language , to make websites
 
  # 7
  <img src="https://github.com/mahaalqerem/Mastering-JavaScript-in-20-Days/assets/138065974/e93260c5-329c-44e3-9d9e-6ac5cc3a090f">
+
+ # 8
+ <img src="https://github.com/mahaalqerem/Mastering-JavaScript-in-20-Days/assets/138065974/5ec65c34-1057-49d4-ae9e-0550ff7ff464">
+
+ # 9
+ <img src="https://github.com/mahaalqerem/Mastering-JavaScript-in-20-Days/assets/138065974/489aad25-a3e0-43c1-9d5f-2dc506072d68">
+
+ # 10
+ <img src="https://github.com/mahaalqerem/Mastering-JavaScript-in-20-Days/assets/138065974/794d3b52-6305-4094-a23b-3491108ef64a">
+
+ # 11
+ <img src="https://github.com/mahaalqerem/Mastering-JavaScript-in-20-Days/assets/138065974/54532cf2-6c13-4e56-8eab-24dec762fec3">
+
+
+
+
 
 
 
