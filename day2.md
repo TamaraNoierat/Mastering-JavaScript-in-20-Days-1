@@ -11,15 +11,25 @@
 
 ## string methods in JavaScript:
 length: Counts how many characters are in a string.
+
 charAt(index): Gets the character at a specific position.
+
 concat(...strings): Puts strings together.
+
 toUpperCase() / toLowerCase(): Changes the case of a string.
+
 indexOf(substring): Finds where a part of the string starts.
+
 substring(start, end): Extracts a piece of the string.
+
 replace(old, new): Swaps parts of a string.
+
 split(separator): Divides a string into parts using a separator.
+
 trim(): Removes extra spaces from the beginning and end.
+
 startsWith(prefix) / endsWith(suffix): Checks if a string starts or ends with a certain part.
+
 includes(substring): Checks if a string contains a specific part.
 
 
