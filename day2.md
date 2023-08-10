@@ -47,6 +47,31 @@ null means :a variable or value has been intentionally set to have no value.
 
 <img src="https://github.com/mahaalqerem/Mastering-JavaScript-in-20-Days/assets/138065974/168aa6be-6dd4-41ca-9913-4940810b241d">
 
+<img src="https://github.com/mahaalqerem/Mastering-JavaScript-in-20-Days/assets/138065974/a93bb9a1-4dc2-42a5-b36e-9514dd8c1b74)
+
+
+## Operators
+
+<img src="https://github.com/mahaalqerem/Mastering-JavaScript-in-20-Days/assets/138065974/1265f99e-7d12-4b98-9da5-714287cf2b79">
+
+## Expressions
+
+An expression in JavaScript is a combination of values, variables, operators, and/or function calls that produces a result. It's like a recipe that you follow to get an outcome.
+
+For example:
+
+1) 5 + 3 is an expression that adds two numbers.
+2) "Hello" + " world" is an expression that combines two strings.
+3) Math.sqrt(16) is an expression that calculates the square root of 16.
+#### Expressions are the way you build and perform actions in your JavaScript code.
+
+## what let ?
+
+<img src="https://github.com/mahaalqerem/Mastering-JavaScript-in-20-Days/assets/138065974/43f282fd-1741-4ec9-9878-4d89ec149fc6">
+
+
+
+
 
 
 
