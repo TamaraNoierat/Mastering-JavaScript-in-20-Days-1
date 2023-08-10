@@ -5,7 +5,7 @@
 1- primitive (eg: string,number,boolean,undefined,null)
 2- objective(eg:document,friend)
 
-### string
+### string 
 
 <img srg="https://github.com/mahaalqerem/Mastering-JavaScript-in-20-Days/assets/138065974/d7872925-2e72-46fe-99fc-fd175b34d643">
 
